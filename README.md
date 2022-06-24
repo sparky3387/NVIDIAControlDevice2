@@ -1,4 +1,4 @@
-# NVIDIAControlDevice
+# NVIDIAControlDevice2
 
 Remotely control an NVIDIA shield via USB from HTTP/Websockets
 
